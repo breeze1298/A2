@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="hello_blank_fragment">Default Fragment</string>
+    <string name="notify">Notification</string>
+    <string name="contact">Contact</string>
+    <string name="service">Service</string>
+    <string name="n">Notify Me !</string>
+    <string name="msg_hint">Message</string>
+</resources>
